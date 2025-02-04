@@ -19,3 +19,7 @@ Chinese "zh"
 
 Note : you must have python 3.6 or higher 
 and you can use library_setup for install library
+
+YouTube www.youtube.com/@Lvvu125
+
+Discord https://discord.gg/E5KM63SZQw
