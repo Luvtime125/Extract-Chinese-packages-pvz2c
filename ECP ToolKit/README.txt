@@ -1,5 +1,5 @@
 ECP (Extract Chinese packages)
-Versions 2.0
+Version 2.0
 coded with python script and json files
 
 What is new?
