@@ -2,7 +2,7 @@ ECP (Extract Chinese packages)
 Versions 2.0
 
 New features 
-1.support any path looks like ECP.exe in disk C and file in disk D
+1.support any path looks like ECP.exe in disk C and RSB/SMF file in disk D
 2.support apk files and ipa files
 3.fixed some bugs
 
